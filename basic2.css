@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    font-size : 50pt;
+    font-family : monospace;
+}
+
+h2 {
+    text-align: center;   
+    font-family : monospace;
+    font-weight : bold;
+}
+
+body
+{
+   font-family: monospace;
+   text-align : justify;
+   font-size: 13pt;
+   line-height: 21pt;
+   color: black;
+   background-image: url('back.gif');
+   background-size: cover;
+   font-weight: bold;
+}
