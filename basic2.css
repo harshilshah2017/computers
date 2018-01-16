@@ -21,3 +21,9 @@ body
    background-size: cover;
    font-weight: bold;
 }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
